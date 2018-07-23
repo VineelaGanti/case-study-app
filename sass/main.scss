@@ -1,0 +1,199 @@
+@import '~bootstrap-sass/assets/stylesheets/bootstrap/variables';
+@import '~bootstrap-sass/assets/stylesheets/bootstrap/mixins';
+@import '~react-responsive-carousel/lib/styles/carousel.css';
+
+$grid-breakpoints: (
+        xs: 0,
+        sm: 480px,
+        md: 768px,
+        lg: 1024px
+);
+
+$container-max-widths: (
+        sm: 420px,
+        md: 720px,
+        lg: 960px
+);
+
+@mixin make-container() {
+  width: 100%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#app-mount {
+  @include make-container();
+
+  .product-details {
+    display: inline-block;
+
+    .product-section {
+      padding-top: 150px;
+    }
+
+    .form-control {
+      width: 20%;
+    }
+
+    .product-header {
+      max-width: 200px;
+      font-size: 15px;
+      margin: 0 5px 0 15px;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      content: "\f02b";
+    }
+
+    div.hr {
+      float: right;
+      width: 40%;
+      color: #f00;
+      background-color: #f00;
+      height: 1px;
+    }
+    div.hr hr {
+      display: none;
+    }
+
+    .product-pick-up-width {
+      width: 50%;
+    }
+
+    .pick-up-cart {
+      float: right;
+    }
+    .product-highlight {
+      float: right;
+      height: 50px;
+    }
+
+    .image-carousal {
+      width: 50%
+    }
+  }
+
+  .card {
+    border: none;
+    background: transparent;
+    .card-body {
+      padding-top: 0px;
+    }
+
+    .card-title {
+      h5 {
+        padding-left: 1.25rem;
+      }
+    }
+  }
+
+  .listButtons {
+    width: 30%;
+    background: #e9ecef85;
+    color: black;
+    border: none;
+    font-size: 65%;
+    margin-right: 8px;
+  }
+
+  .list-group {
+    padding-left: 20px;
+  }
+
+  .product-highlights {
+    margin: 16px 0px;
+  }
+
+  .cart-buttons {
+    width: 45%;
+    margin: 8px;
+
+  }
+
+  .reviews-section {
+    width: 50%;
+    background: #e9ecef85;
+  }
+
+  .carousel {
+    padding-top: 100px;
+  }
+
+  @media only screen and (max-width: 600px) {
+  }
+
+  .product-callout-width {
+    width: 85%;
+  }
+
+  .product-callout {
+    padding-left: 0px;
+    list-style: none;
+    margin: 0;
+
+    .promotion-list {
+      color: red;
+    }
+  }
+
+  .dummyDiv {
+    width: 100%;
+    height: 400px;
+  }
+}
+
+.product-inline {
+  text-align: left;
+  width: 100%;
+  .price-value {
+    float: left;
+  }
+  .price-online {
+    padding-top: 40px;
+  }
+}
+
+.quantity-button {
+  height: 50px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+
+  .input-buttons {
+    display: flex;
+
+    .quantity-placeholder {
+      padding-top: 4px;
+      padding-left: 2px;
+    }
+    .text-center {
+      padding-top: 6px;
+      border: none;
+      width: 40px
+    }
+  }
+  .add-on-plus {
+    padding-left: 55px;
+    padding-top: 7px;
+  }
+
+  .add-on-minus {
+    padding-left: 1px;
+    padding-top: 7px;
+  }
+}
+
+.badgeReviews {
+  padding-left: 350px;
+}
+
+.checked {
+  color: red;
+}

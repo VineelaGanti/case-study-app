@@ -1,0 +1,25 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "es2015"
+  ],
+  "plugins": [
+    "transform-async-functions",
+    "transform-object-rest-spread",
+    "transform-react-remove-prop-types",
+    "transform-runtime"
+  ],
+  "env": {
+    "coverage": {
+      "plugins": [
+        "istanbul"
+      ]
+    },
+    "production": {
+      "plugins": [
+        "transform-react-remove-prop-types"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+--compilers js:babel-core/register
+--colors
+--reporter progress
+--recursive
+--require babel-polyfill
+--require ignore-styles
+--require test/ui-core/unit/helpers.js
+--timeout 3000

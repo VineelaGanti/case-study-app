@@ -1,0 +1,9 @@
+export const ADD_TO_REGISTRY = 'ADD TO REGISTRY';
+export const ADD_TO_LIST = 'ADD TO LIST';
+export const SHARE = 'SHARE';
+export const PICK_UP_IN_STORE = 'PICK UP IN STORE';
+export const ADD_TO_CART = ' ADD TO CART';
+export const PRODUCT_HIGHLIGHTS = 'Product Highlights';
+export const PRO = 'PRO';
+export const CON = 'CON';
+export const OVERALL = 'overall';

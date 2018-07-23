@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fac9499-3e48-44c5-997e-9da7b3049248" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client-entry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-entry.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="case-study.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case-study.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".nycrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.nycrc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".nvmrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.nvmrc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".npmrc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.npmrc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ProductCallOut</find>
+      <find>price-value</find>
+      <find>quantity-button</find>
+      <find>text-center</find>
+      <find>productDetailsRow.props.children[0]</find>
+      <find>hr</find>
+      <find>images</find>
+      <find>ItemDescription</find>
+      <find>import P</find>
+      <find>cardTitleNode</find>
+      <find>this.set</find>
+      <find>set(this.state.min</find>
+      <find>this.set(this.state.min</find>
+      <find>to.be.an</find>
+      <find>input</find>
+      <find>here</find>
+      <find>increment</find>
+      <find>state</find>
+      <find>this.state</find>
+      <find>newValue</find>
+      <find>e.target</find>
+      <find>btn btn-danger</find>
+      <find>inStoreButtonElement</find>
+      <find>renderedComponent</find>
+      <find>console</find>
+      <find>deere</find>
+      <find>Pro</find>
+      <find>//</find>
+      <find>pro</find>
+      <find>redefined</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>set</replace>
+      <replace>this.set(this.state.min, this.setState, this,props)</replace>
+      <replace>set(this.state.min, this.setState, this.props</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\bench\workspace\case-study</dir>
+      <dir>C:\bench\workspace\case-study\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/client-entry.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/index.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/case-study-provider.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/thunks/fetch-all-static-data-and-init.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/thunks/fetch-all-static-data-and-init.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/thunks/fetch-all-data.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/thunks/fetch-all-data.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/mappers/map-product-data.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/dux/index.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/dux/static-data/catalog-view.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/dux/static-data/catalog-view.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/containers/app-container.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/app.spec.js" />
+        <option value="$PROJECT_DIR$/test/mocha.opts" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/containers/app-container.spec.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-header.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/ui-core/mappers/map-product-data.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-callout.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-returns.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-quantity-button.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-quantity-button.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-image-carousal.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-highlights.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-header.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-details.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-details.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-offer.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-counter/product-counter-set.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/helpers.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-counter-input.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-returns.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-pickup-cart.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-pickup-cart.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-offer.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-image-carousal.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-callout.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-add-to-registry-list-share.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-add-to-registry-list-share.spec.js" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-highlights.spec.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-highlights.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/constants/text-constants.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-counter-input.js" />
+        <option value="$PROJECT_DIR$/src/ui-core/components/product-overview/product-customer-review.js" />
+        <option value="$PROJECT_DIR$/sass/main.scss" />
+        <option value="$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-customer-review.spec.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1618" />
+    <option name="height" value="848" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="case-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="case-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="packa&#9;FILE&#9;file://C:/bench/workspace/case-study/package.json&#10;scss&#9;FILE&#9;file://C:/bench/workspace/case-study/sass/main.scss&#10;.json&#9;FILE&#9;file://C:/bench/workspace/case-study/data/item-data.json&#10;constan&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/constants/text-constants.js&#10;main&#9;FILE&#9;file://C:/bench/workspace/case-study/sass/main.scss&#10;produc&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-highlights.js&#10;product&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-highlights.js&#10;product.js&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product.js&#10;patr&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-add-to-registry-list-share.js&#10;pc.js&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-callout.js&#10;pcr.js&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-customer-review.js&#10;product-detai&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-details.js&#10;product-heade&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-header.js&#10;product-high&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-highlights.js&#10;product-image&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-image-carousal.js&#10;product-offer&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-offer.js&#10;product-retur&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-returns.js&#10;main.&#9;FILE&#9;file://C:/bench/workspace/case-study/sass/main.scss&#10;product-pick&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-pickup-cart.js&#10;dux/helpers&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/dux/helpers.js&#10;product-of&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/components/product-overview/product-offer.js&#10;product-off&#9;FILE&#9;file://C:/bench/workspace/case-study/test/ui-core/unit/components/product-overview/product-offer.spec.js&#10;mappers&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/mappers&#10;main'&#9;null&#9;null&#10;babel&#9;FILE&#9;file://C:/bench/workspace/case-study/.babelrc&#10;index.html&#9;FILE&#9;file://C:/bench/workspace/case-study/index.html&#10;sass&#9;FILE&#9;file://C:/bench/workspace/case-study/sass&#10;bab&#9;FILE&#9;file://C:/bench/workspace/case-study/.babelrc&#10;ack&#9;FILE&#9;file://C:/bench/workspace/case-study/package.json&#10;app-con&#9;FILE&#9;file://C:/bench/workspace/case-study/test/ui-core/unit/containers/app-container.spec.js&#10;pack&#9;FILE&#9;file://C:/bench/workspace/case-study/package.json&#10;mocha&#9;FILE&#9;file://C:/bench/workspace/case-study/test/mocha.opts&#10;fetc&#9;FILE&#9;file://C:/bench/workspace/case-study/src/ui-core/thunks/fetch-all-static-data-and-init.js&#10;package.json&#9;FILE&#9;file://C:/bench/workspace/case-study/package.json&#10;pac&#9;FILE&#9;file://C:/bench/workspace/case-study/node_modules/html-webpack-plugin/package.json&#10;main.js&#9;FILE&#9;file://C:/bench/workspace/case-study/node_modules/concurrently/src/main.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bench\workspace\case-study\test\ui-core\unit" />
+      <recent name="C:\bench\workspace\case-study\test" />
+      <recent name="C:\bench\workspace\case-study\src\ui-core\dux" />
+      <recent name="C:\bench\workspace\case-study\sass" />
+      <recent name="C:\bench\workspace\case-study" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\bench\workspace\case-study\src\ui-core\components\product-overview" />
+      <recent name="C:\bench\workspace\case-study" />
+      <recent name="C:\bench\workspace\case-study\src\ui-core" />
+      <recent name="C:\bench\workspace\case-study\src\ui-core\components" />
+      <recent name="C:\bench\workspace\case-study\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.test\ui-core\unit\components\product-overview\product-customer-review.spec.js">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/case-study/coverage/lcov-report/index.html" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="test\ui-core\unit\components\product-overview\product-add-to-registry-list-share.spec.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-add-to-registry-list-share.spec.js</test-file>
+    </configuration>
+    <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-customer-review.spec.js</test-file>
+    </configuration>
+    <configuration name="test\ui-core\unit\components\product-overview\product-highlights.spec.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-highlights.spec.js</test-file>
+    </configuration>
+    <configuration name="test\ui-core\unit\components\product-overview\product.spec.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product.spec.js</test-file>
+    </configuration>
+    <configuration name="unit tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>true</recursive>
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.unit tests" />
+      <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-add-to-registry-list-share.spec.js" />
+      <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-customer-review.spec.js" />
+      <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-highlights.spec.js" />
+      <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product.spec.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-customer-review.spec.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product.spec.js" />
+        <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-highlights.spec.js" />
+        <item itemvalue="Mocha.test\ui-core\unit\components\product-overview\product-add-to-registry-list-share.spec.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fac9499-3e48-44c5-997e-9da7b3049248" name="Default" comment="" />
+      <created>1531332262543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531332262543</updated>
+      <workItem from="1531332266214" duration="933000" />
+      <workItem from="1531333536307" duration="4269000" />
+      <workItem from="1531344133263" duration="8597000" />
+      <workItem from="1531417696426" duration="18368000" />
+      <workItem from="1531514503243" duration="4854000" />
+      <workItem from="1531612085818" duration="24216000" />
+      <workItem from="1531792545898" duration="5098000" />
+      <workItem from="1531832358724" duration="598000" />
+      <workItem from="1531834816827" duration="34922000" />
+      <workItem from="1531939750005" duration="13832000" />
+      <workItem from="1532009854581" duration="46964000" />
+      <workItem from="1532194624890" duration="8953000" />
+      <workItem from="1532212256487" duration="5021000" />
+      <workItem from="1532218188591" duration="9024000" />
+      <workItem from="1532230090255" duration="4560000" />
+      <workItem from="1532234692553" duration="2690000" />
+      <workItem from="1532237424250" duration="538000" />
+      <workItem from="1532237990254" duration="100000" />
+      <workItem from="1532238122863" duration="33651000" />
+      <workItem from="1532302094820" duration="11887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 06m 08s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 21m 53s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 23m 01s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 23m 24s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 23m 56s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 24m 07s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 24m 52s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 25m 24s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 26m 09s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_ui-core_unit_components_product-overview_product-customer-review_spec_js - 2018.07.22 at 21h 27m 17s.xml">
+      <configuration name="test\ui-core\unit\components\product-overview\product-customer-review.spec.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="239075000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="848" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5077821" side_tool="true" weight="0.33230293" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3294423" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5544747" weight="0.32921174" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4922179" visible="true" weight="0.3353941" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.18223087" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3294423" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.36949515" />
+      <window_info anchor="right" id="Ant Build" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39876354" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/containers/app-container.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-quantity-button.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-quantity-button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/html-react-parser/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-header.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-details.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="43" column="74" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/case-study-provider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/lcov-report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-counter/product-counter-set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-counter-input.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1008" lean-forward="true" selection-start-line="1008" selection-end-line="1008" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#30509#31429#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/dux/static-data/catalog-view.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/dux/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/dux/static-data/catalog-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-returns.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-returns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-pickup-cart.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="105" column="7" lean-forward="true" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-pickup-cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-offer.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-image-carousal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-image-carousal.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-offer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-callout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-callout.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="58" column="78" lean-forward="true" selection-start-line="58" selection-start-column="78" selection-end-line="58" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-add-to-registry-list-share.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-add-to-registry-list-share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#728#1312#0" />
+            <element signature="e#897#1289#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="53" lean-forward="true" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-highlights.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="76" column="44" lean-forward="true" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+          <folding>
+            <element signature="e#984#1136#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-highlights.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-customer-review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="71" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/components/product-overview/product-counter-input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#1239#1402#0" />
+            <element signature="e#1419#1516#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/item-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="21" />
+          <folding>
+            <element signature="e#1284#1615#0" />
+            <element signature="e#2011#15758#0" />
+            <element signature="e#3015#3597#0" />
+            <element signature="e#7585#8020#0" />
+            <element signature="e#9363#9694#0" />
+            <element signature="e#13646#13977#0" />
+            <element signature="e#14807#15138#0" />
+            <element signature="e#15900#16802#0" />
+            <element signature="e#16826#17422#0" />
+            <element signature="e#17437#17640#0" />
+            <element signature="e#17746#18054#0" />
+            <element signature="e#18073#20735#0" />
+            <element signature="e#19120#20546#0" />
+            <element signature="e#20756#22100#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui-core/constants/text-constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="197" column="13" lean-forward="true" selection-start-line="197" selection-start-column="13" selection-end-line="197" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ui-core/unit/components/product-overview/product-customer-review.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="126" column="36" selection-start-line="126" selection-start-column="36" selection-end-line="126" selection-end-column="36" />
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-entry.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case-study.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.nycrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.nvmrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
